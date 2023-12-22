@@ -7,7 +7,6 @@ O aplicativo Aditus está sendo desenvolvido para combater a exclusão social de
 <img src="imagens/st1.jpg" alt="Inicio-pagina" style="width: 300px;">
 <img src="imagens/st2.jpg" alt="Inicio-pagina" style="width: 300px;">
 <img src="imagens/st3.jpg" alt="Inicio-pagina" style="width: 300px;">
-<img src="imagens/st4.jpg" alt="Inicio-pagina" style="width: 300px;">
 <img src="imagens/st5.jpg" alt="Inicio-pagina" style="width: 300px;">
 <img src="imagens/st6.jpg" alt="Inicio-pagina" style="width: 300px;">
 <img src="imagens/st7.jpg" alt="Inicio-pagina" style="width: 300px;">
